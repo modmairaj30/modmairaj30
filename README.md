@@ -1,14 +1,14 @@
 # Hi there, I'm Mairaj! 👋
 
+Passionate developer focused on building impactful web and software projects. Always eager to learn new technologies and collaborate with open-source communities!
+
 [![GitHub followers](https://img.shields.io/github/followers/modmairaj30?style=social)](https://github.com/modmairaj30)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
 
 👨‍💻 Professional Profile
 
-Passionate developer focused on building impactful web and software projects. Always eager to learn new technologies and collaborate with open-source communities!
-
-I am a Stack Developer and Team Leader at Valuedge Tech, building reliable cross-platform Application like ERP, Manufacturing Execution System, Health Care Information System and Protocol Management System.
+I am a Full Stack Developer and Team Leader at Valuedge Tech, building reliable cross-platform Application like ERP, Manufacturing Execution System, Health Care Information System and Protocol Management System.
 
 I focus on transforming business requirements into maintainable applications through clean architecture, thoughtful state management, reusable design systems, and strong engineering collaboration.
 
